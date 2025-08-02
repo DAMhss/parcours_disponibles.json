@@ -1,38 +1,33 @@
 {
   "Mystère au lac": {
-    "resume": "Une étrange disparition trouble la quiétude du lac. Suivez les indices pour découvrir la vérité.",
-    "json": "https://test.example.com/mystere_lac/parcours.json",
-    "audios": [
-      "https://test.example.com/mystere_lac/depart.mp3",
-      "https://test.example.com/mystere_lac/balise1.mp3",
-      "https://test.example.com/mystere_lac/balise2.mp3",
-      "https://test.example.com/mystere_lac/balise3.mp3",
-      "https://test.example.com/mystere_lac/balise4.mp3",
-      "https://test.example.com/mystere_lac/balise5.mp3"
-    ]
-  },
-  "Forêt enchantée": {
-    "resume": "Des murmures anciens résonnent dans les bois. Explorez la forêt et percez son mystère.",
-    "json": "https://test.example.com/foret_enchantee/parcours.json",
-    "audios": [
-      "https://test.example.com/foret_enchantee/depart.mp3",
-      "https://test.example.com/foret_enchantee/balise1.mp3",
-      "https://test.example.com/foret_enchantee/balise2.mp3",
-      "https://test.example.com/foret_enchantee/balise3.mp3",
-      "https://test.example.com/foret_enchantee/balise4.mp3",
-      "https://test.example.com/foret_enchantee/balise5.mp3"
-    ]
-  },
-  "Chemin des pierres": {
-    "resume": "Une aventure archéologique où chaque pierre raconte un pan de l’histoire oubliée.",
-    "json": "https://test.example.com/chemin_pierres/parcours.json",
-    "audios": [
-      "https://test.example.com/chemin_pierres/depart.mp3",
-      "https://test.example.com/chemin_pierres/balise1.mp3",
-      "https://test.example.com/chemin_pierres/balise2.mp3",
-      "https://test.example.com/chemin_pierres/balise3.mp3",
-      "https://test.example.com/chemin_pierres/balise4.mp3",
-      "https://test.example.com/chemin_pierres/balise5.mp3"
+    "resume": "Une étrange disparition au bord du lac trouble les habitants.",
+    "audio": [
+      "https://example.com/audio/intro.mp3",
+      "https://example.com/audio/scene1.mp3",
+      "https://example.com/audio/scene2.mp3"
+    ],
+    "traces": [
+      { "lat": 48.8566, "lng": 2.3522 },
+      { "lat": 48.8570, "lng": 2.3530 },
+      { "lat": 48.8575, "lng": 2.3540 }
+    ],
+    "balises": [
+      {
+        "id": "scene1",
+        "lat": 48.8570,
+        "lng": 2.3530,
+        "rayon": 30,
+        "audio": "https://example.com/audio/scene1.mp3"
+      },
+      {
+        "id": "scene2",
+        "lat": 48.8575,
+        "lng": 2.3540,
+        "rayon": 30,
+        "audio": "https://example.com/audio/scene2.mp3"
+      }
     ]
   }
 }
+
+
