@@ -1,0 +1,38 @@
+{
+  "Mystère au lac": {
+    "resume": "Une étrange disparition trouble la quiétude du lac. Suivez les indices pour découvrir la vérité.",
+    "json": "https://test.example.com/mystere_lac/parcours.json",
+    "audios": [
+      "https://test.example.com/mystere_lac/depart.mp3",
+      "https://test.example.com/mystere_lac/balise1.mp3",
+      "https://test.example.com/mystere_lac/balise2.mp3",
+      "https://test.example.com/mystere_lac/balise3.mp3",
+      "https://test.example.com/mystere_lac/balise4.mp3",
+      "https://test.example.com/mystere_lac/balise5.mp3"
+    ]
+  },
+  "Forêt enchantée": {
+    "resume": "Des murmures anciens résonnent dans les bois. Explorez la forêt et percez son mystère.",
+    "json": "https://test.example.com/foret_enchantee/parcours.json",
+    "audios": [
+      "https://test.example.com/foret_enchantee/depart.mp3",
+      "https://test.example.com/foret_enchantee/balise1.mp3",
+      "https://test.example.com/foret_enchantee/balise2.mp3",
+      "https://test.example.com/foret_enchantee/balise3.mp3",
+      "https://test.example.com/foret_enchantee/balise4.mp3",
+      "https://test.example.com/foret_enchantee/balise5.mp3"
+    ]
+  },
+  "Chemin des pierres": {
+    "resume": "Une aventure archéologique où chaque pierre raconte un pan de l’histoire oubliée.",
+    "json": "https://test.example.com/chemin_pierres/parcours.json",
+    "audios": [
+      "https://test.example.com/chemin_pierres/depart.mp3",
+      "https://test.example.com/chemin_pierres/balise1.mp3",
+      "https://test.example.com/chemin_pierres/balise2.mp3",
+      "https://test.example.com/chemin_pierres/balise3.mp3",
+      "https://test.example.com/chemin_pierres/balise4.mp3",
+      "https://test.example.com/chemin_pierres/balise5.mp3"
+    ]
+  }
+}
