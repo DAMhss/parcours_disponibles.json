@@ -4,7 +4,7 @@
   "audio": {
     "depart": "https://drive.google.com/uc?export=download&id=19T8D-jS8udbZTYj_mqjuXjogz-s9i9mS",
     "balise1": "https://drive.google.com/uc?export=download&id=1OLreoZSG_R0Gs8kVZ66JceGexCMOuqXk",
-    "balise2": "https://drive.google.com/uc?export=download&id=1Nmkt2VrReULyjkC7CCkQJeXrFvA8ZawK",
+    
     "balise3": "https://drive.google.com/uc?export=download&id=18cFH1FHdRt0BUiZZ17zv9Qs-kgLUfDbF",
     "balise4": "https://drive.google.com/uc?export=download&id=177sFVfcEDM2FhNWvtPUZtkoNqEimvJG0",
     "balise5": "https://drive.google.com/uc?export=download&id=1KisEP8pj_842c5J46i_m0AM_Pfp7eqDf",
@@ -223,13 +223,6 @@
       "audio": "balise1"
     },
     {
-      "id": "balise2",
-      "lat": 47.91402882441358,
-      "lng": 6.801483054208148,
-      "rayon": 20,
-      "audio": "balise2"
-    },
-    {
       "id": "balise3",
       "lat": 47.91440108389165,
       "lng": 6.803776363015032,
@@ -259,4 +252,5 @@
     }
   ]
 }
+
 
