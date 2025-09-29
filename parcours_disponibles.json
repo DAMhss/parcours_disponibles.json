@@ -2,14 +2,14 @@
   "nom": "La bête des Vosges",
   "resume": "Une bête mystérieuse rôde dans les forêts des Vosges... Suivez les indices à travers la montagne.",
   "audio": {
-    "depart": "https://drive.google.com/uc?export=download&id=1rhbf8D8D74V18uQRNU6iF7ZGVhOWAPlo",
-    "balise0": "https://drive.google.com/uc?export=download&id=15MxSjRoV4sai15sCk3n_YbIRqUX3IE3f",
-    "balise1": "https://drive.google.com/uc?export=download&id=1e1_wWmp24loiSK4xtoDs_zdJ8rxset3J",
-    "balise2": "https://drive.google.com/uc?export=download&id=1791HpVfYM0suLxtxakV4sAO3y6EyWs3L",
-    "balise3": "https://drive.google.com/uc?export=download&id=10OAYpgYsYV_VGoelyjd5hMta05yg-AV_",
-    "balise3.1": "https://drive.google.com/uc?export=download&id=1gf7CuSI1-XVmScgfQWxi9Gd102vjXVhq",
-    "balise4": "https://drive.google.com/uc?export=download&id=1X8UzNxTKhbZ8ZQActucSvvzyVpSPOO5k",
-    "balise5": "https://drive.google.com/uc?export=download&id=1PnNXHxgfXK5ykXlJFHyxeh2-Gc_whsKV"
+    "balise1": "https://drive.google.com/uc?export=download&id=1rhbf8D8D74V18uQRNU6iF7ZGVhOWAPlo",
+    "balise2": "https://drive.google.com/uc?export=download&id=15MxSjRoV4sai15sCk3n_YbIRqUX3IE3f",
+    "balise3": "https://drive.google.com/uc?export=download&id=1e1_wWmp24loiSK4xtoDs_zdJ8rxset3J",
+    "balise4": "https://drive.google.com/uc?export=download&id=1791HpVfYM0suLxtxakV4sAO3y6EyWs3L",
+    "balise5": "https://drive.google.com/uc?export=download&id=10OAYpgYsYV_VGoelyjd5hMta05yg-AV_",
+    "balise6": "https://drive.google.com/uc?export=download&id=1gf7CuSI1-XVmScgfQWxi9Gd102vjXVhq",
+    "balise7": "https://drive.google.com/uc?export=download&id=1X8UzNxTKhbZ8ZQActucSvvzyVpSPOO5k",
+    "balise8": "https://drive.google.com/uc?export=download&id=1PnNXHxgfXK5ykXlJFHyxeh2-Gc_whsKV"
   },
   "traces": [
 {"lat": 47.91351402452318, "lng": 6.801305890956712},
@@ -210,63 +210,64 @@
   ],
   "balises": [
     {
-      "id": "depart",
+      "id": "balise1",
       "lat": 47.913559,
       "lng": 6.802546,
-      "rayon": 20,
-      "audio": "depart"
-    },
-    {
-      "id": "balise0",
-      "lat": 47.913759,
-      "lng": 6.802484,
-      "rayon": 20,
-      "audio": "balise0"
-    },
-    {
-      "id": "balise1",
-      "lat": 47.914401,
-      "lng": 6.803776,
       "rayon": 20,
       "audio": "balise1"
     },
     {
       "id": "balise2",
-      "lat": 47.913742,
-      "lng": 6.804574,
+      "lat": 47.913759,
+      "lng": 6.802484,
       "rayon": 20,
       "audio": "balise2"
-    }, 
-    {
-      "id": "balise3",
-      "lat": 47.916932,
-      "lng": 6.805497,
-      "rayon": 20,
-      "audio": "balise3"
     },
     {
-      "id": "balise3.1",
-      "lat": 47.915559,
-      "lng": 6.805188,
+      "id": "balise3",
+      "lat": 47.914401,
+      "lng": 6.803776,
       "rayon": 20,
-      "audio": "balise3.1"
+      "audio": "balis31"
     },
     {
       "id": "balise4",
+      "lat": 47.913742,
+      "lng": 6.804574,
+      "rayon": 20,
+      "audio": "balise4"
+    }, 
+    {
+      "id": "balise5",
+      "lat": 47.916932,
+      "lng": 6.805497,
+      "rayon": 20,
+      "audio": "balise5"
+    },
+    {
+      "id": "balise6",
+      "lat": 47.915559,
+      "lng": 6.805188,
+      "rayon": 20,
+      "audio": "balise6"
+    },
+    {
+      "id": "balise7",
       "lat": 47.916102,
       "lng": 6.805968,
       "rayon": 20,
-      "audio": "balise4"
+      "audio": "balise7"
     },
     {
-      "id": "balise5",
+      "id": "balise8",
       "lat": 47.915177,
       "lng": 6.802422,
       "rayon": 20,
-      "audio": "balise5"
+      "audio": "balise8"
     }
   ]
 }
+
 
 
 
