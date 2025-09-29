@@ -211,62 +211,63 @@
   "balises": [
     {
       "id": "balise1",
-      "lat": 47.913559,
-      "lng": 6.802546,
+      "lat": 47.9140,
+      "lng": 6.8015,
       "rayon": 20,
       "audio": "balise1"
     },
     {
       "id": "balise2",
-      "lat": 47.913759,
-      "lng": 6.802484,
+      "lat": 47.9137,
+      "lng": 6.8030,
       "rayon": 20,
       "audio": "balise2"
     },
     {
       "id": "balise3",
-      "lat": 47.914401,
-      "lng": 6.803776,
+      "lat": 47.9137,
+      "lng": 6.8046,
       "rayon": 20,
       "audio": "balis31"
     },
     {
       "id": "balise4",
-      "lat": 47.913742,
-      "lng": 6.804574,
+      "lat": 47.9144,
+      "lng": 6.8038,
       "rayon": 20,
       "audio": "balise4"
     }, 
     {
       "id": "balise5",
-      "lat": 47.916932,
-      "lng": 6.805497,
+      "lat": 47.9156,
+      "lng": 6.8052,
       "rayon": 20,
       "audio": "balise5"
     },
     {
       "id": "balise6",
-      "lat": 47.915559,
-      "lng": 6.805188,
+      "lat": 47.9169,
+      "lng": 6.8055,
       "rayon": 20,
       "audio": "balise6"
     },
     {
       "id": "balise7",
-      "lat": 47.916102,
-      "lng": 6.805968,
+      "lat": 47.9161,
+      "lng": 6.8060,
       "rayon": 20,
       "audio": "balise7"
     },
     {
       "id": "balise8",
-      "lat": 47.915177,
-      "lng": 6.802422,
+      "lat": 47.9152,
+      "lng": 6.8024,
       "rayon": 20,
       "audio": "balise8"
     }
   ]
 }
+
 
 
 
