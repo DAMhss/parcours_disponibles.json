@@ -211,7 +211,7 @@
   "balises": [
     {
       "id": "balise1",
-      "ordre":1,
+      "ordre": 1,
       "lat": 47.9140,
       "lng": 6.8015,
       "rayon": 20,
@@ -219,7 +219,7 @@
     },
     {
       "id": "balise2",
-      "ordre":2,
+      "ordre": 2,
       "lat": 47.9137,
       "lng": 6.8030,
       "rayon": 20,
@@ -227,7 +227,7 @@
     },
     {
       "id": "balise3",
-      "ordre":3,
+      "ordre": 3,
       "lat": 47.9137,
       "lng": 6.8046,
       "rayon": 20,
@@ -235,7 +235,7 @@
     },
     {
       "id": "balise4",
-      "ordre":4,
+      "ordre": 4,
       "lat": 47.9144,
       "lng": 6.8038,
       "rayon": 20,
@@ -243,7 +243,7 @@
     }, 
     {
       "id": "balise5",
-      "ordre":5,
+      "ordre": 5,
       "lat": 47.9156,
       "lng": 6.8052,
       "rayon": 20,
@@ -251,7 +251,7 @@
     },
     {
       "id": "balise6",
-      "ordre":6,
+      "ordre": 6,
       "lat": 47.9169,
       "lng": 6.8055,
       "rayon": 20,
@@ -259,7 +259,7 @@
     },
     {
       "id": "balise7",
-      "ordre":7,
+      "ordre": 7,
       "lat": 47.9161,
       "lng": 6.8060,
       "rayon": 20,
@@ -267,7 +267,7 @@
     },
     {
       "id": "balise8",
-      "ordre":8,
+      "ordre": 8,
       "lat": 47.9152,
       "lng": 6.8024,
       "rayon": 20,
@@ -275,6 +275,7 @@
     }
   ]
 }
+
 
 
 
