@@ -3,13 +3,16 @@
   "resume": "Une bête mystérieuse rôde dans les forêts des Vosges... Suivez les indices à travers la montagne.",
   "audio": {
     "balise1": "https://drive.google.com/uc?export=download&id=1rhbf8D8D74V18uQRNU6iF7ZGVhOWAPlo",
-    "balise2": "https://drive.google.com/uc?export=download&id=15MxSjRoV4sai15sCk3n_YbIRqUX3IE3f",
-    "balise3": "https://drive.google.com/uc?export=download&id=1e1_wWmp24loiSK4xtoDs_zdJ8rxset3J",
-    "balise4": "https://drive.google.com/uc?export=download&id=1791HpVfYM0suLxtxakV4sAO3y6EyWs3L",
-    "balise5": "https://drive.google.com/uc?export=download&id=10OAYpgYsYV_VGoelyjd5hMta05yg-AV_",
-    "balise6": "https://drive.google.com/uc?export=download&id=1gf7CuSI1-XVmScgfQWxi9Gd102vjXVhq",
-    "balise7": "https://drive.google.com/uc?export=download&id=1X8UzNxTKhbZ8ZQActucSvvzyVpSPOO5k",
-    "balise8": "https://drive.google.com/uc?export=download&id=1PnNXHxgfXK5ykXlJFHyxeh2-Gc_whsKV"
+    "balisePeur": "https://drive.google.com/uc?export=download&id=15MxSjRoV4sai15sCk3n_YbIRqUX3IE3f",
+    "balise2": "https://drive.google.com/uc?export=download&id=1e1_wWmp24loiSK4xtoDs_zdJ8rxset3J",
+    "balise3": "https://drive.google.com/uc?export=download&id=1791HpVfYM0suLxtxakV4sAO3y6EyWs3L",
+    "balise4": "https://drive.google.com/uc?export=download&id=10OAYpgYsYV_VGoelyjd5hMta05yg-AV_",
+    "baliseLoup": "https://drive.google.com/uc?export=download&id=1gf7CuSI1-XVmScgfQWxi9Gd102vjXVhq",
+    "balise5": "https://drive.google.com/uc?export=download&id=1X8UzNxTKhbZ8ZQActucSvvzyVpSPOO5k",
+    "balise6": "https://drive.google.com/uc?export=download&id=1PnNXHxgfXK5ykXlJFHyxeh2-Gc_whsKV"
+    "baliseInterA": "https://drive.google.com/uc?export=download&id=1yyP1GAPTyTEs0Uvud9fpmmoiwe-UMo1U"
+    "baliseInterB": "https://drive.google.com/uc?export=download&id=1bLGKVdx1rg74RhPcS_N3bvuL27JKP2Fg"
+    "baliseInterC": "https://drive.google.com/uc?export=download&id=1T-KML9h4ooZT00kaagNuCtcsz_w-RQj1"
   },
   "traces": [
 {"lat": 47.91351402452318, "lng": 6.801305890956712},
@@ -215,66 +218,99 @@
       "lat": 47.9140,
       "lng": 6.8015,
       "rayon": 20,
-      "audio": "balise1"
+      "audio": "baliseDépart"
     },
     {
       "id": "balise 2",
       "ordre": 2,
-      "lat": 47.9137,
-      "lng": 6.8030,
+      "lat": 47.9138,
+      "lng": 6.8024,
       "rayon": 20,
-      "audio": "balise2"
+      "audio": "balise1"
     },
     {
       "id": "balise 3",
       "ordre": 3,
       "lat": 47.9137,
-      "lng": 6.8046,
+      "lng": 6.8030,
       "rayon": 20,
-      "audio": "balise3"
+      "audio": "baliseInterA"
     },
     {
       "id": "balise 4",
       "ordre": 4,
-      "lat": 47.9144,
-      "lng": 6.8038,
+      "lat": 47.9137,
+      "lng": 6.8046,
       "rayon": 20,
-      "audio": "balise4"
+      "audio": "balise2"
     }, 
     {
       "id": "balise 5",
       "ordre": 5,
-      "lat": 47.9156,
-      "lng": 6.8052,
+      "lat": 47.9144,
+      "lng": 6.8038,
       "rayon": 20,
-      "audio": "balise5"
+      "audio": "baliseInterB"
     },
     {
       "id": "balise 6",
       "ordre": 6,
-      "lat": 47.9169,
-      "lng": 6.8055,
+      "lat": 47.9156,
+      "lng": 6.8052,
       "rayon": 20,
-      "audio": "balise6"
+      "audio": "balisePeur"
     },
     {
       "id": "balise 7",
       "ordre": 7,
-      "lat": 47.9161,
-      "lng": 6.8060,
+      "lat": 47.9169,
+      "lng": 6.8055,
       "rayon": 20,
-      "audio": "balise7"
+      "audio": "balise3"
     },
     {
       "id": "balise 8",
       "ordre": 8,
+      "lat": 47.9167,
+      "lng": 6.8069,
+      "rayon": 20,
+      "audio": "baliseInterC"
+    },
+    {
+     "id": "balise 9",
+      "ordre": 8,
+      "lat": 47.9161,
+      "lng": 6.8060,
+      "rayon": 20,
+      "audio": "balise4"
+    },   
+    {
+      "id": "balise 10",
+      "ordre": 8,
+      "lat": 47.9150,
+      "lng": 6.8046,
+      "rayon": 20,
+      "audio": "baliseLoup"
+    },
+    {
+      "id": "balise 11",
+      "ordre": 8,
+      "lat": 47.9151,
+      "lng": 6.8039,
+      "rayon": 20,
+      "audio": "balise5"
+    },
+    {
+      "id": "balise 12",
+      "ordre": 8,
       "lat": 47.9152,
       "lng": 6.8024,
       "rayon": 20,
-      "audio": "balise8"
-    }
+      "audio": "balise6"
+    },
   ]
 }
+
 
 
 
