@@ -12,7 +12,8 @@
     "balise6": "https://drive.google.com/uc?export=download&id=1PnNXHxgfXK5ykXlJFHyxeh2-Gc_whsKV",
     "baliseInterA": "https://drive.google.com/uc?export=download&id=1yyP1GAPTyTEs0Uvud9fpmmoiwe-UMo1U",
     "baliseInterB": "https://drive.google.com/uc?export=download&id=1bLGKVdx1rg74RhPcS_N3bvuL27JKP2Fg",
-    "baliseInterC": "https://drive.google.com/uc?export=download&id=1T-KML9h4ooZT00kaagNuCtcsz_w-RQj1"
+    "baliseInterC": "https://drive.google.com/uc?export=download&id=1T-KML9h4ooZT00kaagNuCtcsz_w-RQj1",
+    "baliseDépart": "https://drive.google.com/uc?export=download&id=1h6IRUTJLHF3PCqy-w58UnozGmADjidv0"
 },
   "traces": [
 {"lat": 47.91351402452318, "lng": 6.801305890956712},
@@ -310,6 +311,7 @@
     },
   ]
 }
+
 
 
 
