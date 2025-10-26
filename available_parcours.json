@@ -1,1 +1,36 @@
+{
+  "updated_at": "2025-10-26T00:00:00Z",
+  "parcours": [
+    {
+      "id": "leménil001",
+      "nom": "La Bête des Vosges",
+      "resume": "Une bête mystérieuse rôde dans les forêts des Vosges... Suivez les indices et découvrez son secret.",
+      "centre": { "lat": 48.081, "lng": 6.845 },
+      "distance": 5.2,
+      "duree": "1h30",
+      "image": "https://tonserveur.com/images/vosges.jpg",
+      "json_url": "https://tonserveur.com/parcours/vosges001.json"
+    },
+    {
+      "id": "lemenil002",
+      "nom": "Les sorcières du Beaudevé",
+      "resume": "Une balade d'halloween pour les enfants, au coeur de la montagne vosgienne .",
+      "centre": { "lat": 47.951, "lng": 7.250 },
+      "distance": 3.8,
+      "duree": "1h30",
+      "image": "https://tonserveur.com/images/foret.jpg",
+      "json_url": "https://tonserveur.com/parcours/foret002.json"
+    },
+    {
+      "id": "lemenil003",
+      "nom": "Le chemin de Lila",
+      "resume": "Suivez la petite Lila sur les chemins de la vie.",
+      "centre": { "lat": 48.669, "lng": -4.330 },
+      "distance": 7.1,
+      "duree": "1h30",
+      "image": "https://tonserveur.com/images/littoral.jpg",
+      "json_url": "https://tonserveur.com/parcours/littoral003.json"
+    }
+  ]
+}
 
