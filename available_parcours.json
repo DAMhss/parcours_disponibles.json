@@ -2,7 +2,7 @@
   "updated_at": "2025-10-26T00:00:00Z",
   "parcours": [
     {
-      "id": "leménil001",
+      "id": "lemenil001",
       "nom": "La Bête des Vosges",
       "resume": "Une bête mystérieuse rôde dans les forêts des Vosges... Suivez les indices et découvrez son secret.",
       "centre": {"lat": 47.91351402452318, "lng": 6.801305890956712},
