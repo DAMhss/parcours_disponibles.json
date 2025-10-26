@@ -6,7 +6,7 @@
       "nom": "La Bête des Vosges",
       "resume": "Une bête mystérieuse rôde dans les forêts des Vosges... Suivez les indices et découvrez son secret.",
       "centre": {"lat": 47.91351402452318, "lng": 6.801305890956712},
-      "distance": 2km,
+      "distance": 2,
       "duree": "1h30",
       "image": "https://drive.google.com/file/d/1tNlbfZYvvUXmnv0tahrJHGTypqrTH0tS/view?usp=sharing",
       "json_url": "https://raw.githubusercontent.com/DAMhss/parcours_disponibles.json/refs/heads/main/parcours_disponibles.json"
@@ -16,7 +16,7 @@
       "nom": "Les sorcières du Beaudevé",
       "resume": "Une balade d'halloween pour les enfants, au coeur de la montagne vosgienne .",
       "centre":  {"lat": 47.91351402452318, "lng": 6.801305890956712},
-      "distance": 2km,
+      "distance": 2,
       "duree": "1h30",
       "image": "https://drive.google.com/file/d/1spr1qWOw3G-3R01Ggfc9NtFCJjWPUNfB/view?usp=sharing",
       "json_url": "https://tonserveur.com/parcours/foret002.json"
@@ -26,7 +26,7 @@
       "nom": "Le chemin de Lila",
       "resume": "Suivez la petite Lila sur les chemins de la vie.",
       "centre":  {"lat": 47.91351402452318, "lng": 6.801305890956712},
-      "distance": 2km,
+      "distance": 2,
       "duree": "1h30",
       "image": "https://drive.google.com/file/d/100cHp4jllKLMWHKDh6usB3iBPo7s2Fnp/view?usp=sharing",
       "json_url": "https://tonserveur.com/parcours/littoral003.json"
