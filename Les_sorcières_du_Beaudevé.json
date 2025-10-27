@@ -213,18 +213,18 @@
     {"lat": 47.914068322528124, "lng": 6.8012958498416936}
   ],
   "balises": [
-    { "id": "balise 1",  "ordre": 1,  "lat": 47.9140, "lng": 6.8015, "rayon": 20, "audio": "baliseDépart" },
-    { "id": "balise 2",  "ordre": 2,  "lat": 47.9138, "lng": 6.8024, "rayon": 20, "audio": "balise1" },
-    { "id": "balise 3",  "ordre": 3,  "lat": 47.9137, "lng": 6.8030, "rayon": 20, "audio": "baliseInterA" },
-    { "id": "balise 4",  "ordre": 4,  "lat": 47.9137, "lng": 6.8046, "rayon": 20, "audio": "balise2" },
-    { "id": "balise 5",  "ordre": 5,  "lat": 47.9144, "lng": 6.8038, "rayon": 20, "audio": "baliseInterB" },
-    { "id": "balise 6",  "ordre": 6,  "lat": 47.9156, "lng": 6.8052, "rayon": 20, "audio": "balisePeur" },
-    { "id": "balise 7",  "ordre": 7,  "lat": 47.9169, "lng": 6.8055, "rayon": 20, "audio": "balise3" },
-    { "id": "balise 8",  "ordre": 8,  "lat": 47.9167, "lng": 6.8069, "rayon": 20, "audio": "baliseInterC" },
-    { "id": "balise 9",  "ordre": 9,  "lat": 47.9161, "lng": 6.8060, "rayon": 20, "audio": "balise4" },
-    { "id": "balise 10", "ordre": 10, "lat": 47.9150, "lng": 6.8046, "rayon": 20, "audio": "baliseLoup" },
-    { "id": "balise 11", "ordre": 11, "lat": 47.9151, "lng": 6.8039, "rayon": 20, "audio": "balise5" },
-    { "id": "balise 12", "ordre": 12, "lat": 47.9152, "lng": 6.8024, "rayon": 20, "audio": "balise6" }
+    { "id": "balise 1",  "ordre": 1,  "lat": 47.9140, "lng": 6.8015, "rayon": 20, "audio": "balise1" },
+    { "id": "balise 2",  "ordre": 2,  "lat": 47.9138, "lng": 6.8024, "rayon": 20, "audio": "balise2" },
+    { "id": "balise 3",  "ordre": 3,  "lat": 47.9137, "lng": 6.8030, "rayon": 20, "audio": "balise3" },
+    { "id": "balise 4",  "ordre": 4,  "lat": 47.9137, "lng": 6.8046, "rayon": 20, "audio": "balise4" },
+    { "id": "balise 5",  "ordre": 5,  "lat": 47.9144, "lng": 6.8038, "rayon": 20, "audio": "balise5" },
+    { "id": "balise 6",  "ordre": 6,  "lat": 47.9156, "lng": 6.8052, "rayon": 20, "audio": "balise6" },
+    { "id": "balise 7",  "ordre": 7,  "lat": 47.9169, "lng": 6.8055, "rayon": 20, "audio": "balise7" },
+    { "id": "balise 8",  "ordre": 8,  "lat": 47.9167, "lng": 6.8069, "rayon": 20, "audio": "balise8" },
+    { "id": "balise 9",  "ordre": 9,  "lat": 47.9161, "lng": 6.8060, "rayon": 20, "audio": "balise9" },
+    { "id": "balise 10", "ordre": 10, "lat": 47.9150, "lng": 6.8046, "rayon": 20, "audio": "balise10" },
+    { "id": "balise 11", "ordre": 11, "lat": 47.9151, "lng": 6.8039, "rayon": 20, "audio": "balise11" },
+    { "id": "balise 12", "ordre": 12, "lat": 47.9152, "lng": 6.8024, "rayon": 20, "audio": "balise12" }
   ]
 }
 
