@@ -4,16 +4,12 @@
     {
       "id": "lemenil",
       "nom": "Parcours de santé Le Ménil",
-      "resume": "Un parcours nature au Ménil, commun à plusieurs histoires audio.",
+      "resume": "Un parcours nature et audio au Ménil, utilisé pour plusieurs histoires immersives.",
       "centre": { "lat": 47.91351402452318, "lng": 6.801305890956712 },
       "distance": 2,
       "duree": "1h30",
-
-      // 🔁 Image DU PARCOURS (à remplacer par ta couverture de parcours)
-      "image": "https://drive.google.com/uc?export=view&id=PARCOURS_IMAGE_ID",
-
-      // (Optionnel) json_url si ton bouton Télécharger en a besoin (pointe vers un fichier 'lemenil.json' générique du parcours)
-      "json_url": "https://raw.githubusercontent.com/DAMhss/parcours_disponibles.json/main/parcours/lemenil.json",
+      "image": "https://drive.google.com/uc?export=view&id=1tNlbfZYvvUXmnv0tahrJHGTypqrTH0tS",
+      "json_url": "https://raw.githubusercontent.com/DAMhss/parcours_disponibles.json/main/parcours/lemenil001.json",
 
       "histoires": [
         {
@@ -35,7 +31,7 @@
         {
           "id": "lemenil003",
           "nom": "Le chemin de Lila",
-          "resume": "Suivez la petite Lila sur les chemins de la vie.",
+          "resume": "Suivez la petite Lila sur les chemins de la vie, entre nature et émotions.",
           "image": "https://drive.google.com/uc?export=view&id=100cHp4jllKLMWHKDh6usB3iBPo7s2Fnp",
           "duree": "1h30",
           "json_url": "https://raw.githubusercontent.com/DAMhss/parcours_disponibles.json/main/parcours/lemenil003.json"
@@ -44,3 +40,4 @@
     }
   ]
 }
+
