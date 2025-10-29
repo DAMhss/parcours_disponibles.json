@@ -1,35 +1,37 @@
 {
-  "updated_at": "2025-10-27T00:00:00Z",
+  "updated_at": "2025-10-29T00:00:00Z",
   "parcours": [
     {
-      "id": "lemenil000",
-      "nom": "Parcours de santé Le Ménil",
-      "resume": "Découvrez le Parcours de santé du Ménil, une aventure sonore au cœur de la forêt vosgienne.",
-      "centre": { "lat": 47.91351402452318, "lng": 6.801305890956712 },
-      "distance": 2,
-      "duree": "1h00"
+      "id": "lemenil_sante001",
+      "nom": "Parcours de santé du Ménil",
+      "resume": "Un itinéraire ludique et sportif au cœur du Ménil, ponctué de haltes pour respirer et profiter de la nature.",
+      "distance": 2.2,
+      "duree": "1h00",
+      "itineraire_maps": "https://www.google.com/maps/dir/?api=1&destination=47.91351402452318,6.801305890956712"
     },
     {
-      "id": "lemenil001",
-      "nom": "La Bête des Vosges",
-      "resume": "Une bête mystérieuse rôde dans les forêts des Vosges... Suivez les indices et découvrez son secret.",
-      "image": "https://drive.google.com/uc?export=view&id=1tNlbfZYvvUXmnv0tahrJHGTypqrTH0tS",
-      "json_url": "https://raw.githubusercontent.com/DAMhss/parcours_disponibles.json/main/parcours_disponibles.json"
+      "id": "fictif001",
+      "nom": "Balade du Vieux Chêne",
+      "resume": "Une courte promenade ombragée autour du grand chêne millénaire. Idéale en famille.",
+      "distance": 1.8,
+      "duree": "0h45",
+      "itineraire_maps": "https://www.google.com/maps/dir/?api=1&destination=47.910500,6.802000"
     },
     {
-      "id": "lemenil002",
-      "nom": "Les sorcières du Beaudevé",
-      "resume": "Une balade d'halloween pour les enfants, au coeur de la montagne vosgienne.",
-      "image": "https://drive.google.com/uc?export=view&id=1spr1qWOw3G-3R01Ggfc9NtFCJjWPUNfB",
-      "json_url": "https://raw.githubusercontent.com/DAMhss/parcours_disponibles.json/main/Les_sorci%C3%A8res_du_Beaudev%C3%A9.json"
+      "id": "fictif002",
+      "nom": "Les hauteurs de Beaudevé",
+      "resume": "Un parcours panoramique sur les crêtes, offrant une vue dégagée sur toute la vallée.",
+      "distance": 4.6,
+      "duree": "1h50",
+      "itineraire_maps": "https://www.google.com/maps/dir/?api=1&destination=47.918200,6.809800"
     },
     {
-      "id": "lemenil003",
-      "nom": "Le chemin de Lila",
-      "resume": "Suivez la petite Lila sur les chemins de la vie.",
-      "image": "https://drive.google.com/uc?export=view&id=100cHp4jllKLMWHKDh6usB3iBPo7s2Fnp",
-      "json_url": "https://raw.githubusercontent.com/DAMhss/parcours_disponibles.json/main/Lila.json"
+      "id": "fictif003",
+      "nom": "La Rivière des Contes",
+      "resume": "Une balade douce le long de la rivière, rythmée par les bruits d’eau et les légendes locales.",
+      "distance": 3.0,
+      "duree": "1h15",
+      "itineraire_maps": "https://www.google.com/maps/dir/?api=1&destination=47.916100,6.797400"
     }
   ]
 }
-
