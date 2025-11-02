@@ -1,1 +1,24 @@
+{
+  "parcours_id": "lemenil_sante001",
+  "stories": [
+    {
+      "title": "Les sorcières du Beaudevé",
+      "resume": "Une balade d'Halloween...",
+      "image": "https://drive.google.com/file/d/1spr1qWOw3G-3R01Ggfc9NtFCJjWPUNfB/view?usp=drive_link",
+      "json_url": "https://…/Les_sorcieres_du_Beaudeve.json"
+    },
+    {
+      "title": "Lila",
+      "resume": "Suivez la petite Lila…",
+      "image": "https://drive.google.com/file/d/100cHp4jllKLMWHKDh6usB3iBPo7s2Fnp/view?usp=drive_link",
+      "json_url": "https://…/Lila.json"
+    },
+    {
+      "title": "La bête des Vosges",
+      "resume": "Une bête mystérieuse…",
+      "image": "https://drive.google.com/file/d/1tNlbfZYvvUXmnv0tahrJHGTypqrTH0tS/view?usp=drive_link",
+      "json_url": "https://…/parcours_disponibles.json"
+    }
+  ]
+}
 
