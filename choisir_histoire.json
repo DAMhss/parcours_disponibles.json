@@ -20,7 +20,7 @@
     {
       "title": "La bête des Vosges",
       "resume": "Une bête mystérieuse rode dans les forêts vosgienne",
-      "public": "public averti"
+      "public": "public averti",
       "thème": "Inspiré de faits rééls",
       "image": "https://drive.google.com/uc?export=view&id=1tNlbfZYvvUXmnv0tahrJHGTypqrTH0tS",
       "json_url": "https://raw.githubusercontent.com/DAMhss/parcours_disponibles.json/refs/heads/main/La_bete_des_Vosges.json"
