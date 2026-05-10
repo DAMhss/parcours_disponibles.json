@@ -8,30 +8,6 @@
       "distance": 2.2,
       "duree": "1h00",
       "itineraire_maps": "https://www.google.com/maps/dir/?api=1&destination=47.91351402452318,6.801305890956712"
-    },
-    {
-      "id": "fictif001",
-      "nom": "Balade du Vieux Chêne",
-      "resume": "Une courte promenade ombragée autour du grand chêne millénaire. Idéale en famille.",
-      "distance": 1.8,
-      "duree": "0h45",
-      "itineraire_maps": "https://www.google.com/maps/dir/?api=1&destination=47.910500,6.802000"
-    },
-    {
-      "id": "fictif002",
-      "nom": "Les hauteurs de Beaudevé",
-      "resume": "Un parcours panoramique sur les crêtes, offrant une vue dégagée sur toute la vallée.",
-      "distance": 4.6,
-      "duree": "1h50",
-      "itineraire_maps": "https://www.google.com/maps/dir/?api=1&destination=47.918200,6.809800"
-    },
-    {
-      "id": "fictif003",
-      "nom": "La Rivière des Contes",
-      "resume": "Une balade douce le long de la rivière, rythmée par les bruits d’eau et les légendes locales.",
-      "distance": 3.0,
-      "duree": "1h15",
-      "itineraire_maps": "https://www.google.com/maps/dir/?api=1&destination=47.916100,6.797400"
     }
   ]
 }
