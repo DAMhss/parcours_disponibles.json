@@ -7,7 +7,8 @@
       "public": "conte pour enfant", 
       "thème": "halloween",
       "image": "https://drive.google.com/uc?export=view&id=1spr1qWOw3G-3R01Ggfc9NtFCJjWPUNfB",
-       "json_url": "https://raw.githubusercontent.com/DAMhss/parcours_disponibles.json/refs/heads/main/Les_sorci%C3%A8res_du_Beaudev%C3%A9.json"
+      "preview_audio": "https://drive.google.com/uc?export=download&id=1IhICFAb5LDV5lwisxMkYlS3Pfz3OX7Ov"
+      "json_url": "https://raw.githubusercontent.com/DAMhss/parcours_disponibles.json/refs/heads/main/Les_sorci%C3%A8res_du_Beaudev%C3%A9.json"
     },
     {
       "title": "Lila",
@@ -15,6 +16,7 @@
       "public": "conte pour enfant",
       "thème": "nature",
       "image": "https://drive.google.com/uc?export=view&id=100cHp4jllKLMWHKDh6usB3iBPo7s2Fnp",
+      "preview_audio": "https://drive.google.com/uc?export=download&id=1LH9X8RBeuj6O8jX5pAvRAFJLL7083SFn"
       "json_url": "https://raw.githubusercontent.com/DAMhss/parcours_disponibles.json/refs/heads/main/Lila.json"
     },
    {
@@ -23,6 +25,7 @@
       "public": "tout public",
       "thème": "nature",
       "image": "https://drive.google.com/uc?export=view&id=1WA8OmpLzGorJp50J6p4ANduGFdCFjMTu",
+      "preview_audio": "https://drive.google.com/uc?export=download&id=14NMblnsuZRoWU8qG800vAutc2YE4lUej"
       "json_url": "https://raw.githubusercontent.com/DAMhss/parcours_disponibles.json/refs/heads/main/Le_grand_tetras.json"
     },
     {
@@ -31,6 +34,7 @@
       "public": "public averti",
       "thème": "Inspiré de faits réels",
       "image": "https://drive.google.com/uc?export=view&id=1tNlbfZYvvUXmnv0tahrJHGTypqrTH0tS",
+      "preview_audio": "https://drive.google.com/uc?export=download&id=1h6IRUTJLHF3PCqy-w58UnozGmADjidv0"
       "json_url": "https://raw.githubusercontent.com/DAMhss/parcours_disponibles.json/refs/heads/main/La_bete_des_Vosges.json"
     }
   ]
