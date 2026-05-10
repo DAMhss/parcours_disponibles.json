@@ -2,12 +2,17 @@
   "updated_at": "2025-10-29T00:00:00Z",
   "parcours": [
     {
-      "id": "lemenil_sante001",
-      "nom": "Parcours de santé du Ménil",
-      "resume": "Un itinéraire ludique et sportif au cœur du Ménil, ponctué de haltes pour respirer et profiter de la nature.",
-      "distance": 2.2,
-      "duree": "1h00",
-      "itineraire_maps": "https://www.google.com/maps/dir/?api=1&destination=47.91351402452318,6.801305890956712"
-    }
+  "id": "lemenil_sante001",
+  "nom": "Parcours de santé du Ménil",
+  "resume": "Un itinéraire ludique et sportif au cœur du Ménil, ponctué de haltes pour respirer et profiter de la nature.",
+  "distance": 2.2,
+  "duree": "1h00",
+  "centre": {
+    "lat": 47.91351402452318,
+    "lng": 6.801305890956712
+  },
+  "itineraire_maps": "https://www.google.com/maps/dir/?api=1&destination=47.91351402452318,6.801305890956712",
+  "stories_url": "https://raw.githubusercontent.com/DAMhss/parcours_disponibles.json/refs/heads/main/choisir_histoire.json"
+}
   ]
 }
