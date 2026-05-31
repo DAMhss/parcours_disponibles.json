@@ -4,10 +4,10 @@
   "carte": {
   "image": "https://drive.google.com/uc?export=download&id=1kK-5a7PRNkafh_D-jPx1HsRngDlMsj8w",
   "bounds": {
-    "south": 47.9128417276669865,
-    "west": 6.8001601084257386,
-    "north": 47.9173701326608352,
-    "east": 6.8087303955628533
+     "north": 47.919,
+      "south": 47.911,
+      "west": 6.799,
+      "east": 6.810
  }
 },  
   "audio": {
