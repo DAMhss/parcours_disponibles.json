@@ -1,15 +1,6 @@
 {
   "nom": "La bête des Vosges",
   "resume": "Une bête mystérieuse rôde dans les forêts des Vosges... Suivez les indices à travers la montagne.",
-   "carte": {
-    "image": "https://drive.google.com/uc?export=download&id=1WUaYv5xDGrV_z2Ym9ozkjT1eud3hCI08",
-    "bounds": {
-      "north": 47.919,
-      "south": 47.911,
-      "west": 6.799,
-      "east": 6.810
-    }
-  },
   "audio": {
     "balise1": "https://drive.google.com/uc?export=download&id=1rhbf8D8D74V18uQRNU6iF7ZGVhOWAPlo",
     "balisePeur": "https://drive.google.com/uc?export=download&id=15MxSjRoV4sai15sCk3n_YbIRqUX3IE3f",
