@@ -23,5 +23,14 @@
   {"lat": 47.899453, "lng": 6.774656},
   {"lat": 47.899436, "lng": 6.774634},
   {"lat": 47.899429, "lng": 6.774626}
-]
   ],
+"balises": [
+    [
+  { "id": "balise 1", "ordre": 1, "lat": 47.8994611, "lng": 6.7745522, "rayon": 20, "audio": "balise1" },
+  { "id": "balise 2", "ordre": 2, "lat": 47.8995462, "lng": 6.7746451, "rayon": 20, "audio": "balise2" },
+  { "id": "balise 3", "ordre": 3, "lat": 47.8994794, "lng": 6.7747379, "rayon": 20, "audio": "balise3" },
+  { "id": "balise 4", "ordre": 4, "lat": 47.8993485, "lng": 6.7747283, "rayon": 20, "audio": "balise4" },
+  { "id": "balise 5", "ordre": 5, "lat": 47.8994794, "lng": 6.7753606, "rayon": 20, "audio": "balise5" }
+]
+  ]
+}
