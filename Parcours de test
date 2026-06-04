@@ -1,1 +1,8 @@
-
+{
+  "nom": "Parcours de test",
+  "resume": "Voici l(histoire du plus gros des Galliformes d'Europe.",
+  "audio": {
+    "balise1": "https://drive.google.com/uc?export=download&id=14NMblnsuZRoWU8qG800vAutc2YE4lUej",
+    "balise2": "https://drive.google.com/uc?export=download&id=1Asjf4hIT00gm-B92b3t8f1aQAqFjwdoU",
+    "balise3": "https://drive.google.com/uc?export=download&id=1qPj4GhOEcymBE5L_fNi9K_ni_1edN3n-",
+    "balise4": "https://drive.google.com/uc?export=download&id=15Hwrg4zcSyvLBJEhrtL3_AhRZSjFnRcy",
