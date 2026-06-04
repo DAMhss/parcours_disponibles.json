@@ -1,34 +1,36 @@
 {
   "nom": "Parcours de test",
-  "resume": "Voici l(histoire du plus gros des Galliformes d'Europe.",
+  "resume": "Voici l'histoire du plus gros des Galliformes d'Europe.",
+
   "audio": {
     "balise1": "https://drive.google.com/uc?export=download&id=14NMblnsuZRoWU8qG800vAutc2YE4lUej",
     "balise2": "https://drive.google.com/uc?export=download&id=1Asjf4hIT00gm-B92b3t8f1aQAqFjwdoU",
     "balise3": "https://drive.google.com/uc?export=download&id=1qPj4GhOEcymBE5L_fNi9K_ni_1edN3n-",
-    "balise4": "https://drive.google.com/uc?export=download&id=15Hwrg4zcSyvLBJEhrtL3_AhRZSjFnRcy",
- },
+    "balise4": "https://drive.google.com/uc?export=download&id=15Hwrg4zcSyvLBJEhrtL3_AhRZSjFnRcy"
+  },
+
   "traces": [
-  {"lat": 47.899477, "lng": 6.774542},
-  {"lat": 47.899526, "lng": 6.774609},
-  {"lat": 47.899556, "lng": 6.774642},
-  {"lat": 47.899515, "lng": 6.774687},
-  {"lat": 47.899470, "lng": 6.774723},
-  {"lat": 47.899427, "lng": 6.774737},
-  {"lat": 47.899395, "lng": 6.774742},
-  {"lat": 47.899349, "lng": 6.774737},
-  {"lat": 47.899349, "lng": 6.774698},
-  {"lat": 47.899388, "lng": 6.774687},
-  {"lat": 47.899427, "lng": 6.774695},
-  {"lat": 47.899449, "lng": 6.774695},
-  {"lat": 47.899453, "lng": 6.774656},
-  {"lat": 47.899436, "lng": 6.774634},
-  {"lat": 47.899429, "lng": 6.774626}
+    { "lat": 47.899477, "lng": 6.774542 },
+    { "lat": 47.899526, "lng": 6.774609 },
+    { "lat": 47.899556, "lng": 6.774642 },
+    { "lat": 47.899515, "lng": 6.774687 },
+    { "lat": 47.899470, "lng": 6.774723 },
+    { "lat": 47.899427, "lng": 6.774737 },
+    { "lat": 47.899395, "lng": 6.774742 },
+    { "lat": 47.899349, "lng": 6.774737 },
+    { "lat": 47.899349, "lng": 6.774698 },
+    { "lat": 47.899388, "lng": 6.774687 },
+    { "lat": 47.899427, "lng": 6.774695 },
+    { "lat": 47.899449, "lng": 6.774695 },
+    { "lat": 47.899453, "lng": 6.774656 },
+    { "lat": 47.899436, "lng": 6.774634 },
+    { "lat": 47.899429, "lng": 6.774626 }
   ],
-"balises": [
-  { "id": "balise 1", "ordre": 1, "lat": 47.8994611, "lng": 6.7745522, "rayon": 20, "audio": "balise1" },
-  { "id": "balise 2", "ordre": 2, "lat": 47.8995462, "lng": 6.7746451, "rayon": 20, "audio": "balise2" },
-  { "id": "balise 3", "ordre": 3, "lat": 47.8994794, "lng": 6.7747379, "rayon": 20, "audio": "balise3" },
-  { "id": "balise 4", "ordre": 4, "lat": 47.8993485, "lng": 6.7747283, "rayon": 20, "audio": "balise4" },
-  { "id": "balise 5", "ordre": 5, "lat": 47.8994794, "lng": 6.7753606, "rayon": 20, "audio": "balise5" }
+
+  "balises": [
+    { "id": "balise 1", "ordre": 1, "lat": 47.8994611, "lng": 6.7745522, "rayon": 20, "audio": "balise1" },
+    { "id": "balise 2", "ordre": 2, "lat": 47.8995462, "lng": 6.7746451, "rayon": 20, "audio": "balise2" },
+    { "id": "balise 3", "ordre": 3, "lat": 47.8994794, "lng": 6.7747379, "rayon": 20, "audio": "balise3" },
+    { "id": "balise 4", "ordre": 4, "lat": 47.8993485, "lng": 6.7747283, "rayon": 20, "audio": "balise4" }
   ]
 }
