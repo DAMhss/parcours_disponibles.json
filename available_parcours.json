@@ -14,7 +14,6 @@
   "itineraire_maps": "https://www.google.com/maps/dir/?api=1&destination=47.91351402452318,6.801305890956712",
   "stories_url": "https://raw.githubusercontent.com/DAMhss/parcours_disponibles.json/refs/heads/main/choisir_histoire.json"
 },
-{
   "updated_at": "2026-06-04T00:00:00Z",
   "parcours": [
     {
