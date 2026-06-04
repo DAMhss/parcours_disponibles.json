@@ -6,3 +6,22 @@
     "balise2": "https://drive.google.com/uc?export=download&id=1Asjf4hIT00gm-B92b3t8f1aQAqFjwdoU",
     "balise3": "https://drive.google.com/uc?export=download&id=1qPj4GhOEcymBE5L_fNi9K_ni_1edN3n-",
     "balise4": "https://drive.google.com/uc?export=download&id=15Hwrg4zcSyvLBJEhrtL3_AhRZSjFnRcy",
+ },
+  "traces": [
+  {"lat": 47.899477, "lng": 6.774542},
+  {"lat": 47.899526, "lng": 6.774609},
+  {"lat": 47.899556, "lng": 6.774642},
+  {"lat": 47.899515, "lng": 6.774687},
+  {"lat": 47.899470, "lng": 6.774723},
+  {"lat": 47.899427, "lng": 6.774737},
+  {"lat": 47.899395, "lng": 6.774742},
+  {"lat": 47.899349, "lng": 6.774737},
+  {"lat": 47.899349, "lng": 6.774698},
+  {"lat": 47.899388, "lng": 6.774687},
+  {"lat": 47.899427, "lng": 6.774695},
+  {"lat": 47.899449, "lng": 6.774695},
+  {"lat": 47.899453, "lng": 6.774656},
+  {"lat": 47.899436, "lng": 6.774634},
+  {"lat": 47.899429, "lng": 6.774626}
+]
+  ],
