@@ -6,8 +6,8 @@
       "resume": "Voici l'histoire du plus gros des Galliformes d'Europe.",
       "public": "Tout public",
       "theme": "Nature",
-      "image": "URL_IMAGE",
-      "preview_audio": "https://www.google.com/maps/dir/?api=1&destination=47.8994611,6.7745522",
+      "image": "URL_IMAGE"
+      "preview_audio": "https://drive.google.com/uc?export=download&id=1Asjf4hIT00gm-B92b3t8f1aQAqFjwdoU"
       "json_url": "https://raw.githubusercontent.com/DAMhss/parcours_disponibles.json/refs/heads/main/Parcours_de_test.json"
     }
   ]
