@@ -38,13 +38,13 @@
       "json_url": "https://raw.githubusercontent.com/DAMhss/parcours_disponibles.json/refs/heads/main/La_bete_des_Vosges.json"
     },
      {
-      "title": "Parcours de test ",
-      "resume": "Une bête mystérieuse rode dans les forêts vosgienne",
-      "public": "public averti",
-      "thème": "Inspiré de faits réels",
-      "image": "https://drive.google.com/uc?export=view&id=1tNlbfZYvvUXmnv0tahrJHGTypqrTH0tS",
+      "title": "Le loup des Vosges ",
+      "resume": "Un animal à la fois fascinant et mystérieux ",
+      "public": "tout public",
+      "thème": "nature",
+      "image": "https://drive.google.com/uc?export=download&id=1BEGH-sNIGZCQ2L5b8871AaglfqGbUAt6",
       "preview_audio": "https://drive.google.com/uc?export=download&id=1h6IRUTJLHF3PCqy-w58UnozGmADjidv0",
-      "json_url": "https://raw.githubusercontent.com/DAMhss/parcours_disponibles.json/refs/heads/main/La_bete_des_Vosges.json"
+      "json_url": "https://raw.githubusercontent.com/DAMhss/parcours_disponibles.json/refs/heads/main/Le_loup_des_vosges.json"
     }
   ]
 }
