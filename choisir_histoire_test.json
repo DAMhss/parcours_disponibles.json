@@ -1,13 +1,14 @@
 {
+  "parcours_id": "parcours_test001",
   "stories": [
     {
-      "title": "Parcours_de_test",
-      "resume": "Une bête mystérieuse rôde dans les forêts vosgiennes.",
-      "public": "public averti",
-      "thème": "Inspiré de faits réels",
-      "image": "https://drive.google.com/uc?export=view&id=1tNlbfZYvvUXmnv0tahrJHGTypqrTH0tS",
-      "preview_audio": "https://drive.google.com/uc?export=download&id=1h6IRUTJLHF3PCqy-w58UnozGmADjidv0",
-      "json_url": "https://raw.githubusercontent.com/DAMhss/parcours_disponibles.json/refs/heads/main/Parcours_de_test.json"
+      "title": "Le plus gros Galliforme d'Europe",
+      "resume": "Voici l'histoire du plus gros des Galliformes d'Europe.",
+      "public": "Tout public",
+      "theme": "Nature",
+      "image": "URL_IMAGE",
+      "preview_audio": "URL_EXTRAIT_AUDIO",
+      "json_url": "URL_DU_JSON_COMPLET_DE_TON_HISTOIRE"
     }
   ]
 }
