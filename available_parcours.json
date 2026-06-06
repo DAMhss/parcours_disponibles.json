@@ -15,7 +15,7 @@
       "stories_url": "https://raw.githubusercontent.com/DAMhss/parcours_disponibles.json/refs/heads/main/choisir_histoire.json"
     },
     {
-      "id": "parcours_test0001",
+      "id": "parcours_test001",
       "nom": "Parcours de test",
       "resume": "Parcours de validation des balises GPS et du déclenchement audio.",
       "distance": 0.2,
