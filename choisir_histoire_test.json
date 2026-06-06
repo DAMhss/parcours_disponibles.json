@@ -7,8 +7,8 @@
       "public": "Tout public",
       "theme": "Nature",
       "image": "URL_IMAGE",
-      "preview_audio": "URL_EXTRAIT_AUDIO",
-      "json_url": "URL_DU_JSON_COMPLET_DE_TON_HISTOIRE"
+      "preview_audio": "https://www.google.com/maps/dir/?api=1&destination=47.8994611,6.7745522",
+      "json_url": "https://raw.githubusercontent.com/DAMhss/parcours_disponibles.json/refs/heads/main/choisir_histoire_test.json"
     }
   ]
 }
