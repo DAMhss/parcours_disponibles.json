@@ -211,7 +211,7 @@
   {"lat": 49.35959, "lng": -0.843074},
   {"lat": 49.359717, "lng": -0.842202},
   {"lat": 49.359659, "lng": -0.841375}
-]
+],
   "balises": [
     { "id": "balise 1",  "ordre": 1,  "lat": 49,359686, "lng": -0,8417, "rayon": 20, "audio": "balise1" },
     { "id": "balise 2",  "ordre": 2,  "lat": 49,361562, "lng": -0,8478, "rayon": 20, "audio": "balise2" },
