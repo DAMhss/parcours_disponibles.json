@@ -2,11 +2,11 @@
   "parcours_id": "omaha_beach001",
   "stories": [
     {
-      "title": "Le plus gros Galliforme d'Europe",
-      "resume": "Voici l'histoire du plus gros des Galliformes d'Europe.",
+      "title": "Le jour J",
+      "resume": "Revivez le premier jour du débarquement de Normandie sur la plage de Omaha Beach",
       "public": "Tout public",
-      "theme": "Nature",
-      "image": "URL_IMAGE",
+      "theme": "Histoire",
+      "image": "https://drive.google.com/uc?export=download&id=1fZ9AUHQKh4w8mAShTasNJyhwe6gCryHP",
       "preview_audio": "https://drive.google.com/uc?export=download&id=1Asjf4hIT00gm-B92b3t8f1aQAqFjwdoU",
       "json_url": "https://raw.githubusercontent.com/DAMhss/parcours_disponibles.json/refs/heads/main/Parcours_de_test.json"
     }
