@@ -25,7 +25,7 @@
         "lng": -0.841329
       },
       "itineraire_maps": "https://www.google.com/maps/dir/?api=1&destination=49.359647,-0.841329",
-      "stories_url": "https://raw.githubusercontent.com/DAMhss/parcours_disponibles.json/refs/heads/main/choisir_histoire_test.json"
+      "stories_url": "https://raw.githubusercontent.com/DAMhss/parcours_disponibles.json/refs/heads/main/choisir_histoire_calvados.json"
     }
   ]
 }
